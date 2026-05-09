@@ -51,6 +51,11 @@ Tree::Node *Tree::search(Node *node, int id_libro)
     return nullptr;
 }
 
+Tree::Node *Tree::root()
+{
+    return rootNode;
+}
+
 bool Tree::insert(int id_libro_padre, DatosLibro value)
 {
 
@@ -237,7 +242,10 @@ void Tree::precursores(int id_libro)
     }
 
     if (node->children.empty())
+    {
+        std::cout << "El ID " << node->data.id << " no tiene hijos." << std::endl;
         return; // No tiene hijos, no es precursor.
+    }
 
     bool esPrecursor = true;
     int anio_padre = node->data.anio_publicacion;

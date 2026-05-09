@@ -39,6 +39,8 @@ public:
     bool isEmpty();
     int size();
 
+    Node* root();
+
 
     int parent(int id_libro);
     std::vector<int> children(int id_libro);
@@ -51,6 +53,7 @@ public:
     std::vector<int> preOrder();
     std::vector<int> postOrder();
     std::vector<int> inOrder();
+
 
     void listar();
     void borrar_ratings(double rating);
