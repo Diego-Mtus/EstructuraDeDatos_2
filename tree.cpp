@@ -269,3 +269,33 @@ void Tree::precursores(int id_libro)
         std::cout << "El ID " << node->data.id << " no es un precursor." << std::endl;
     }
 }
+
+
+// Para ver si los datos se cargaron bien.
+void Tree::desplegar_datos(Node *node)
+{
+    if (!node)
+        return;
+
+    std::cout << "ID: " << node->data.id << std::endl;
+    std::cout << "Título: " << node->data.titulo << std::endl;
+    std::cout << "ISBN: " << node->data.isbn << std::endl;
+    std::cout << "Año de Publicación: " << node->data.anio_publicacion << std::endl;
+    std::cout << "Idioma: " << node->data.idioma << std::endl;
+    std::cout << "Descripción: " << node->data.descripcion << std::endl;
+    std::cout << "Rating Promedio: " << node->data.rating_promedio << std::endl;
+    std::cout << "Número de Páginas: " << node->data.num_paginas << std::endl;
+}
+
+
+void Tree::desplegar_datos(int id_libro)
+{
+    Node *node = search(rootNode, id_libro);
+    if (!node)
+    {
+        std::cout << "No se encontró el libro con ID " << id_libro << "." << std::endl;
+        return;
+    }
+    desplegar_datos(node);
+}
+

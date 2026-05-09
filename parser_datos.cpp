@@ -29,7 +29,7 @@ void ParserDatos::procesarArchivo(const std::string& ruta_archivo, Tree& arbol) 
     datosPrincipal.id = libro.child("id").text().as_int();
     datosPrincipal.titulo = libro.child("title").text().as_string();
     datosPrincipal.isbn = libro.child("isbn").text().as_string();
-    datosPrincipal.anio_publicacion = libro.child("work").child("original_publication_year").text().as_int();
+    datosPrincipal.anio_publicacion = libro.child("publication_year").text().as_int();
     datosPrincipal.idioma = libro.child("language_code").text().as_string();
     datosPrincipal.descripcion = libro.child("description").text().as_string();
     datosPrincipal.rating_promedio = libro.child("average_rating").text().as_double();
@@ -43,7 +43,11 @@ void ParserDatos::procesarArchivo(const std::string& ruta_archivo, Tree& arbol) 
         DatosLibro similar;
         similar.id = sim.child("id").text().as_int();
         similar.titulo = sim.child("title").text().get();
-        similar.anio_publicacion = sim.child("work").child("original_publication_year").text().as_int();
+        similar.anio_publicacion = sim.child("publication_year").text().as_int();
+        similar.isbn = sim.child("isbn").text().as_string();
+        similar.rating_promedio = sim.child("average_rating").text().as_double();
+        similar.idioma = "No disponible"; // No viene en el XML de similares
+        similar.descripcion = "No disponible"; // No viene en el XML de similares
         
         arbol.insert(datosPrincipal.id, similar);
     }

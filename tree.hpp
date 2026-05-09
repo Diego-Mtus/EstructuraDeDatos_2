@@ -54,7 +54,9 @@ public:
     std::vector<int> postOrder();
     std::vector<int> inOrder();
 
-
+    void desplegar_datos(Node* node);
+    void desplegar_datos(int id_libro);
+    
     void listar();
     void borrar_ratings(double rating);
     void precursores(int id_libro);
