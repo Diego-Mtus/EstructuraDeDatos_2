@@ -124,9 +124,8 @@ bool Tree::remove(int id_libro)
     siblings.erase(
         std::remove(siblings.begin(), siblings.end(), node),
         siblings.end());
-
+    //creo que aca descuenta medio raro asique lo cambie y borre el treeSize--
     deleteSubtree(node);
-    treeSize--;
     return true;
 }
 
@@ -232,6 +231,7 @@ void Tree::borrar_ratings_rec(Node *node, double rating)
 // en años posteriores (Por ejemplo, si un libro con ID 001 fue publicado el año 2000 y todos
 // sus libros similares fueron publicados luego del año 2000, entonces el ID 001 debe ser reportado)
 
+//voy a modificar esta funcion porsiaca
 void Tree::precursores(int id_libro)
 {
     Node *node = search(rootNode, id_libro);
@@ -243,16 +243,24 @@ void Tree::precursores(int id_libro)
 
     if (node->children.empty())
     {
-        std::cout << "El ID " << node->data.id << " no tiene hijos." << std::endl;
         return; // No tiene hijos, no es precursor.
     }
 
-    bool esPrecursor = true;
     int anio_padre = node->data.anio_publicacion;
+    if (anio_padre==0){
+        return;
+    }
+    bool esPrecursor=true;
+    bool hayAnioValido=false;
 
     // Iteramos por los hijos, si alguno tiene un año de publicación menor o igual al padre, entonces el padre no es precursor.
     for (auto child : node->children)
     {
+        if (child->data.anio_publicacion==0){
+            continue;
+        }
+        hayAnioValido=true;
+
         if (child->data.anio_publicacion <= anio_padre)
         {
             esPrecursor = false;
@@ -260,7 +268,7 @@ void Tree::precursores(int id_libro)
         }
     }
 
-    if (esPrecursor)
+    if (esPrecursor && hayAnioValido)
     {
         std::cout << "ID Precursor: " << node->data.id << std::endl;
     }
@@ -299,3 +307,37 @@ void Tree::desplegar_datos(int id_libro)
     desplegar_datos(node);
 }
 
+//voy a agregar una nueva funcion:
+void Tree::listar_precursores(){
+    std::vector<int> ids=preOrder();
+    bool hayPrecursores=false;
+    //como dijiste que hay errores, VOY A DEFINIRLO TODO JKASHJKLJDA
+    //hay que asegurarse de que todo funcione para que no quede nada dando vuelta
+    for(int id : ids){
+        if(id==-1){
+            continue;
+        }
+        Node *node=search(rootNode, id);
+        if(!node || node->children.empty()){
+            continue;
+        }
+        int anio_padre=node->data.anio_publicacion;
+        if(anio_padre==0){
+            continue;
+        }
+        bool esPrecursor=true;
+        bool hayAnioValido=false;
+        for(auto child:node->children){
+            if(child->data.anio_publicacion<=anio_padre){
+                esPrecursor=false;
+                break;
+            }
+        }
+        if(esPrecursor && hayAnioValido){
+            std::cout<<"ID Precursor "<<id<<std::endl;
+        }
+    }
+    if(!hayPrecursores){
+        std::cout<<"No se encontraron precursores"<<std::endl;
+    }
+}

@@ -60,4 +60,5 @@ public:
     void listar();
     void borrar_ratings(double rating);
     void precursores(int id_libro);
+    void listar_precursores(); //esta es la que agrege
 };

@@ -31,17 +31,8 @@ int main()
     miArbol.listar(); // Listar para verificar que se borraron los nodos correctos
 
     // Código para encontrar precursores en todo el árbol
-    std::vector<int> todos_los_ids = miArbol.preOrder();
     std::cout << "Buscando precursores en el dataset..." << std::endl;
-
-    for (int id : todos_los_ids)
-    {
-        if (id != -1)
-        { // Ignorar raíz
-            miArbol.precursores(id);
-        }
-    }
-
+    miArbol.listar_precursores(); //añadi este
     miArbol.desplegar_datos(280111); // Mostrar datos del ID 280111
     return 0;
 }

@@ -24,7 +24,7 @@ void ParserDatos::procesarArchivo(const std::string& ruta_archivo, Tree& arbol) 
     }
 
     pugi::xml_node libro = doc.child("GoodreadsResponse").child("book");
-
+    
     DatosLibro datosPrincipal;
     datosPrincipal.id = libro.child("id").text().as_int();
     datosPrincipal.titulo = libro.child("title").text().as_string();
