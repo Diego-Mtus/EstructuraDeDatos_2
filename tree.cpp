@@ -198,7 +198,7 @@ void Tree::listar()
 }
 
 // borrar_ratings(r): Eliminar del árbol todos los libros con rating promedio menor o igual al parámetro r.
-
+//se eliminan nodos con rating>=rating
 void Tree::borrar_ratings(double rating)
 {
     borrar_ratings_rec(rootNode, rating);

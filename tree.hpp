@@ -13,7 +13,8 @@ struct DatosLibro {
     double rating_promedio;
     int num_paginas;
 };
-
+//cada nodo representa un libro
+//los hijos de un nodo representan libros similares a ese libro
 class Tree {
 private:
     struct Node {
