@@ -6,33 +6,37 @@
 int main()
 {
     Tree miArbol;
-    std::string rutaXml = "./dataset";
+    std::string rutaXml = "./testds";
 
     ParserDatos::cargarCarpeta(rutaXml, miArbol);
 
-    // PRUEBA DE BÚSQUEDA
-    int idFinal = 142473;
-    if (miArbol.search(miArbol.root(), idFinal) != nullptr)
-    {
-        std::cout << "ID " << idFinal << " encontrado ANTES de borrar." << std::endl;
+    // Test de ejemplo hecho solo con "1.xml"
+    // Para ejecutar el test se utiliza
+    // g++ -std=c++17 test.cpp tree.cpp parser_datos.cpp pugixml.cpp -o test
+    // ./test
+
+    // IMPORTANTE: El test busca la carpeta "testds" en el mismo directorio que el ejecutable, 
+    // dentro de esa carpeta debe estar el archivo 1.xml
+
+    for(int id : miArbol.preOrder()) {
+        miArbol.desplegar_datos(id);
+        std::cout << "-----------------------------" << std::endl;
     }
 
-    // 3. PRUEBA DE PRECURSORES
-    int idVisual = 142473;
-    std::cout << "Evaluando precursores para ID " << idVisual << ":" << std::endl;
-    miArbol.precursores(idVisual);
+    std::cout << miArbol.size() << std::endl;
 
-    miArbol.desplegar_datos(idVisual); // Mostrar datos
+    miArbol.listar();
 
-    double filtro = 4.6;
-    miArbol.borrar_ratings(filtro);
-    std::cout << "Nuevo tamaño tras borrar ratings <= 4.6: " << miArbol.size() << std::endl;
+    miArbol.borrar_ratings(4.2);
 
-    miArbol.listar(); // Listar para verificar que se borraron los nodos correctos
+    for(int id : miArbol.preOrder()) {
+        miArbol.desplegar_datos(id);
+        std::cout << "-----------------------------" << std::endl;
+    }
 
-    // Código para encontrar precursores en todo el árbol
-    std::cout << "Buscando precursores en el dataset..." << std::endl;
-    miArbol.listar_precursores(); //añadi este
-    miArbol.desplegar_datos(280111); // Mostrar datos del ID 280111
+    std::cout << miArbol.size() << std::endl;
+
+    miArbol.precursores();
+
     return 0;
 }

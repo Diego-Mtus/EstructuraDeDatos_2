@@ -2,10 +2,13 @@
 #include <iostream>
 
 void ParserDatos::cargarCarpeta(const std::string& ruta_carpeta, Tree& arbol) {
+
+    // Se revisa si existe la ruta y si es carpeta.
    if(!std::filesystem::exists(ruta_carpeta) || !std::filesystem::is_directory(ruta_carpeta)) {
         throw std::runtime_error("No es una carpeta válida");
     }
 
+    // Por cada elemento, si es xml se revisa.
     for (const auto& entry : std::filesystem::directory_iterator(ruta_carpeta)) {
         std::cout << "Procesando archivo: " << entry.path() << std::endl;
         if (entry.path().extension() == ".xml") {
@@ -13,6 +16,8 @@ void ParserDatos::cargarCarpeta(const std::string& ruta_carpeta, Tree& arbol) {
         }
     }
 }
+
+
 
 void ParserDatos::procesarArchivo(const std::string& ruta_archivo, Tree& arbol) {
     pugi::xml_document doc;
@@ -33,7 +38,6 @@ void ParserDatos::procesarArchivo(const std::string& ruta_archivo, Tree& arbol) 
     datosPrincipal.idioma = libro.child("language_code").text().as_string();
     datosPrincipal.descripcion = libro.child("description").text().as_string();
     datosPrincipal.rating_promedio = libro.child("average_rating").text().as_double();
-    datosPrincipal.num_paginas = libro.child("num_pages").text().as_int();
 
     // Se inserta en el árbol con padre id -1 porque ese es el nodo raíz.
     arbol.insert(-1, datosPrincipal);
@@ -42,7 +46,7 @@ void ParserDatos::procesarArchivo(const std::string& ruta_archivo, Tree& arbol) 
     for (pugi::xml_node sim : similares.children("book")) {
         DatosLibro similar;
         similar.id = sim.child("id").text().as_int();
-        similar.titulo = sim.child("title").text().get();
+        similar.titulo = sim.child("title").text().as_string();
         similar.anio_publicacion = sim.child("publication_year").text().as_int();
         similar.isbn = sim.child("isbn").text().as_string();
         similar.rating_promedio = sim.child("average_rating").text().as_double();

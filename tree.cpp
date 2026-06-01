@@ -124,7 +124,7 @@ bool Tree::remove(int id_libro)
     siblings.erase(
         std::remove(siblings.begin(), siblings.end(), node),
         siblings.end());
-    // creo que aca descuenta medio raro asique lo cambie y borre el treeSize--
+
     deleteSubtree(node);
     return true;
 }
@@ -232,7 +232,7 @@ void Tree::borrar_ratings_rec(Node *node, double rating)
 // sus libros similares fueron publicados luego del año 2000, entonces el ID 001 debe ser reportado)
 
 // voy a modificar esta funcion porsiaca
-bool Tree::precursores(int id_libro)
+bool Tree::precursor_por_id(int id_libro)
 {
     Node *node = search(rootNode, id_libro);
     if (!node)
@@ -246,6 +246,8 @@ bool Tree::precursores(int id_libro)
     }
 
     int anio_padre = node->data.anio_publicacion;
+
+    // Si el año del padre es 0, asumimos que es el nodo raíz o un nodo sin año válido, por lo que no puede ser precursor.
     if (anio_padre == 0)
     {
         return false;
@@ -276,6 +278,11 @@ void Tree::desplegar_datos(Node *node)
     if (!node)
         return;
 
+    if(node->data.id == -1) {
+
+        return;
+    }
+
     std::cout << "ID: " << node->data.id << std::endl;
     std::cout << "Título: " << node->data.titulo << std::endl;
     std::cout << "ISBN: " << node->data.isbn << std::endl;
@@ -283,7 +290,6 @@ void Tree::desplegar_datos(Node *node)
     std::cout << "Idioma: " << node->data.idioma << std::endl;
     std::cout << "Descripción: " << node->data.descripcion << std::endl;
     std::cout << "Rating Promedio: " << node->data.rating_promedio << std::endl;
-    std::cout << "Número de Páginas: " << node->data.num_paginas << std::endl;
 }
 
 void Tree::desplegar_datos(int id_libro)
@@ -297,20 +303,19 @@ void Tree::desplegar_datos(int id_libro)
     desplegar_datos(node);
 }
 
-// voy a agregar una nueva funcion:
-void Tree::listar_precursores()
+// Para ver los precursores, se recorre el árbol y se llama a precursor_por_id para cada nodo, si es precursor se muestra su ID.
+void Tree::precursores()
 {
     std::vector<int> ids = preOrder();
     bool hayPrecursores = false;
-    // como dijiste que hay errores, VOY A DEFINIRLO TODO JKASHJKLJDA
-    // hay que asegurarse de que todo funcione para que no quede nada dando vuelta
+
     for (int id : ids)
     {
         if (id == -1)
         {
             continue;
         }
-        if (precursores(id))
+        if (precursor_por_id(id))
         {
             hayPrecursores = true;
         }

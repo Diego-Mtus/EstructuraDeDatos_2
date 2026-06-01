@@ -3,7 +3,8 @@
 #include <vector>
 #include <iostream>
 
-struct DatosLibro {
+struct DatosLibro
+{
     int id;
     std::string titulo;
     std::string isbn;
@@ -11,26 +12,28 @@ struct DatosLibro {
     std::string idioma;
     std::string descripcion;
     double rating_promedio;
-    int num_paginas;
 };
 
-class Tree {
+class Tree
+{
 private:
-    struct Node {
+    struct Node
+    {
         DatosLibro data;
-        Node* parent;
-        std::vector<Node*> children;
+        Node *parent;
+        std::vector<Node *> children;
 
-        Node(DatosLibro value, Node* p = nullptr);
+        Node(DatosLibro value, Node *p = nullptr);
     };
 
-    Node* rootNode;
+    Node *rootNode;
     int treeSize;
 
-    void preOrder(Node* node, std::vector<int>& result);
-    void postOrder(Node* node, std::vector<int>& result);
-    void deleteSubtree(Node* node);
-    void borrar_ratings_rec(Node* node, double rating);
+    void preOrder(Node *node, std::vector<int> &result);
+    void postOrder(Node *node, std::vector<int> &result);
+    void deleteSubtree(Node *node);
+    void borrar_ratings_rec(Node *node, double rating);
+    bool precursor_por_id(int id_libro);
 
 public:
     Tree();
@@ -39,26 +42,24 @@ public:
     bool isEmpty();
     int size();
 
-    Node* root();
-
+    Node *root();
 
     int parent(int id_libro);
     std::vector<int> children(int id_libro);
 
     bool insert(int id_libro_padre, DatosLibro value);
     bool remove(int id_libro);
-    
-    Node* search(Node* node, int id_libro);
+
+    Node *search(Node *node, int id_libro);
 
     std::vector<int> preOrder();
     std::vector<int> postOrder();
     std::vector<int> inOrder();
 
-    void desplegar_datos(Node* node);
+    void desplegar_datos(Node *node);
     void desplegar_datos(int id_libro);
-    
+
     void listar();
     void borrar_ratings(double rating);
-    bool precursores(int id_libro);
-    void listar_precursores(); //esta es la que agrege
+    void precursores();
 };
