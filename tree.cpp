@@ -258,6 +258,10 @@ bool Tree::precursor_por_id(int id_libro)
     for (auto child : node->children)
     {
 
+        if(child->data.anio_publicacion == 0) {
+            continue; // Si el hijo no tiene año válido, lo ignoramos para la comparación.
+        }
+        
         if (child->data.anio_publicacion <= anio_padre)
         {
             esPrecursor = false;

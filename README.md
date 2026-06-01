@@ -30,6 +30,6 @@ Rating promedio,
 Numero de paginas.
 
 ## Decisiones de implementación
-- Se ignoraron libros similares con año de publicacion 0 (dato no disponible en el XML)
+- Se ignoraron libros similares con año de publicacion 0 (cuando el dato no está disponible en el XML) al evaluar precursores, esto hará que los libros similares con esta condición no invaliden el estado de precursor.
 - Se ignoraros libros principales sin año de publicacion al evaluar precursores
 - Se usó la libreria PugiXML para parsear los archivos XML
