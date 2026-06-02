@@ -1,0 +1,215 @@
+Procesando archivo: "./testds/1.xml"
+-----------------------------
+ID: 1
+Título: Harry Potter and the Half-Blood Prince (Harry Potter, #6)
+ISBN: 0439785960
+Año de Publicación: 2006
+Idioma: eng
+Descripción: The war against Voldemort is not going well: even Muggle governments are noticing. Ron scans the obituary pages of The Daily Prophet looking for familiar names. Dumbledore is absent from Hogwarts for long stretches of time, and the Order of the Phoenix has already suffered losses. And yet... As in all wars, life goes on. Sixth-year students learn to Apparate, and lose a few eyebrows in the process. The Weasley twins expand their business. Teenagers flirt and fight and fall in love. Classes are never straightforward, though Harry receives some extraordinary help from the mysterious Half-Blood Prince. So it's the home front that takes center stage in the multilayered sixth installment of the story of Harry Potter. Harry struggles to uncover the identity of the Half-Blood Prince, the past owner of a potions textbook he now possesses that is filled with ingenious, potentially deadly, spells. But Harry's life is suddenly changed forever when someone close to him is heinously murdered right before his eyes. With Dumbledore's guidance, he seeks out the full, complex story of the boy who became Lord Voldemort, and thereby attempts to find what may be his only vulnerability.<br />--scholastic.com
+Rating Promedio: 4.54
+-----------------------------
+ID: 153795
+Título: Squire (Protector of the Small, #3)
+ISBN: 
+Año de Publicación: 2007
+Idioma: No disponible
+Descripción: No disponible
+Rating Promedio: 4.27
+-----------------------------
+ID: 201341
+Título: Mossflower (Redwall, #2)
+ISBN: 0441005764
+Año de Publicación: 1998
+Idioma: No disponible
+Descripción: No disponible
+Rating Promedio: 4.09
+-----------------------------
+ID: 227865
+Título: The Eternity Code (Artemis Fowl, #3)
+ISBN: 0141321318
+Año de Publicación: 2006
+Idioma: No disponible
+Descripción: No disponible
+Rating Promedio: 4.04
+-----------------------------
+ID: 84119
+Título: The Horse and His Boy (Chronicles of Narnia, #5)
+ISBN: 0439861365
+Año de Publicación: 1995
+Idioma: No disponible
+Descripción: No disponible
+Rating Promedio: 3.9
+-----------------------------
+ID: 86737
+Título: City of Masks (Stravaganza, #1)
+ISBN: 1582349177
+Año de Publicación: 2004
+Idioma: No disponible
+Descripción: No disponible
+Rating Promedio: 3.9
+-----------------------------
+ID: 433533
+Título: Rilla of Ingleside (Anne of Green Gables, #8)
+ISBN: 0553269224
+Año de Publicación: 1997
+Idioma: No disponible
+Descripción: No disponible
+Rating Promedio: 4.16
+-----------------------------
+ID: 18122
+Título: The Amber Spyglass (His Dark Materials, #3)
+ISBN: 0440238153
+Año de Publicación: 2003
+Idioma: No disponible
+Descripción: No disponible
+Rating Promedio: 4.06
+-----------------------------
+ID: 13262797
+Título: The Fire Chronicle (The Books of Beginning, #2)
+ISBN: 0375868712
+Año de Publicación: 2012
+Idioma: No disponible
+Descripción: No disponible
+Rating Promedio: 4.24
+-----------------------------
+ID: 324277
+Título: The Carnivorous Carnival (A Series of Unfortunate Events, #9)
+ISBN: 0064410129
+Año de Publicación: 2002
+Idioma: No disponible
+Descripción: No disponible
+Rating Promedio: 3.97
+-----------------------------
+ID: 14565
+Título: Dangerous Angels (Weetzie Bat, #1-5)
+ISBN: 0064406970
+Año de Publicación: 0
+Idioma: No disponible
+Descripción: No disponible
+Rating Promedio: 4.27
+-----------------------------
+ID: 519933
+Título: The Lives of Christopher Chant (Chrestomanci, #2)
+ISBN: 0688163653
+Año de Publicación: 1998
+Idioma: No disponible
+Descripción: No disponible
+Rating Promedio: 4.22
+-----------------------------
+ID: 590325
+Título: The Shamer's War (The Shamer Chronicles, #4)
+ISBN: 0805077715
+Año de Publicación: 2006
+Idioma: No disponible
+Descripción: No disponible
+Rating Promedio: 4.13
+-----------------------------
+ID: 8949
+Título: Lord of the Shadows (Cirque Du Freak, #11)
+ISBN: 0316156280
+Año de Publicación: 0
+Idioma: No disponible
+Descripción: No disponible
+Rating Promedio: 4.22
+-----------------------------
+ID: 363392
+Título: The Forgotten (Animorphs, #11)
+ISBN: 0590997327
+Año de Publicación: 1997
+Idioma: No disponible
+Descripción: No disponible
+Rating Promedio: 3.72
+-----------------------------
+ID: 86238
+Título: The Enchanted Forest Chronicles (The Enchanted Forest Chronicles, #1-4)
+ISBN: 0152050523
+Año de Publicación: 2003
+Idioma: No disponible
+Descripción: No disponible
+Rating Promedio: 4.47
+-----------------------------
+ID: 334012
+Título: The Edge Chronicles 6: Midnight Over Sanctaphrax: Third Book of Twig
+ISBN: 0552554243
+Año de Publicación: 2006
+Idioma: No disponible
+Descripción: No disponible
+Rating Promedio: 4.2
+-----------------------------
+17
+ID: 1
+ID: 153795
+ID: 201341
+ID: 227865
+ID: 84119
+ID: 86737
+ID: 433533
+ID: 18122
+ID: 13262797
+ID: 324277
+ID: 14565
+ID: 519933
+ID: 590325
+ID: 8949
+ID: 363392
+ID: 86238
+ID: 334012
+-----------------------------
+ID: 1
+Título: Harry Potter and the Half-Blood Prince (Harry Potter, #6)
+ISBN: 0439785960
+Año de Publicación: 2006
+Idioma: eng
+Descripción: The war against Voldemort is not going well: even Muggle governments are noticing. Ron scans the obituary pages of The Daily Prophet looking for familiar names. Dumbledore is absent from Hogwarts for long stretches of time, and the Order of the Phoenix has already suffered losses. And yet... As in all wars, life goes on. Sixth-year students learn to Apparate, and lose a few eyebrows in the process. The Weasley twins expand their business. Teenagers flirt and fight and fall in love. Classes are never straightforward, though Harry receives some extraordinary help from the mysterious Half-Blood Prince. So it's the home front that takes center stage in the multilayered sixth installment of the story of Harry Potter. Harry struggles to uncover the identity of the Half-Blood Prince, the past owner of a potions textbook he now possesses that is filled with ingenious, potentially deadly, spells. But Harry's life is suddenly changed forever when someone close to him is heinously murdered right before his eyes. With Dumbledore's guidance, he seeks out the full, complex story of the boy who became Lord Voldemort, and thereby attempts to find what may be his only vulnerability.<br />--scholastic.com
+Rating Promedio: 4.54
+-----------------------------
+ID: 153795
+Título: Squire (Protector of the Small, #3)
+ISBN: 
+Año de Publicación: 2007
+Idioma: No disponible
+Descripción: No disponible
+Rating Promedio: 4.27
+-----------------------------
+ID: 13262797
+Título: The Fire Chronicle (The Books of Beginning, #2)
+ISBN: 0375868712
+Año de Publicación: 2012
+Idioma: No disponible
+Descripción: No disponible
+Rating Promedio: 4.24
+-----------------------------
+ID: 14565
+Título: Dangerous Angels (Weetzie Bat, #1-5)
+ISBN: 0064406970
+Año de Publicación: 0
+Idioma: No disponible
+Descripción: No disponible
+Rating Promedio: 4.27
+-----------------------------
+ID: 519933
+Título: The Lives of Christopher Chant (Chrestomanci, #2)
+ISBN: 0688163653
+Año de Publicación: 1998
+Idioma: No disponible
+Descripción: No disponible
+Rating Promedio: 4.22
+-----------------------------
+ID: 8949
+Título: Lord of the Shadows (Cirque Du Freak, #11)
+ISBN: 0316156280
+Año de Publicación: 0
+Idioma: No disponible
+Descripción: No disponible
+Rating Promedio: 4.22
+-----------------------------
+ID: 86238
+Título: The Enchanted Forest Chronicles (The Enchanted Forest Chronicles, #1-4)
+ISBN: 0152050523
+Año de Publicación: 2003
+Idioma: No disponible
+Descripción: No disponible
+Rating Promedio: 4.47
+-----------------------------
+7
+No se encontraron precursores

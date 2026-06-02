@@ -1,0 +1,1213 @@
+Tamaño del árbol inicial: 154242
+Se borran los libros con rating promedio <= 4.4
+El ID 99298 es un precursor.
+El ID 31819 es un precursor.
+El ID 11544421 es un precursor.
+El ID 265205 es un precursor.
+El ID 18243700 es un precursor.
+El ID 68428 es un precursor.
+El ID 6 es un precursor.
+El ID 763429 es un precursor.
+El ID 17131869 es un precursor.
+El ID 77727 es un precursor.
+El ID 25106 es un precursor.
+El ID 99298 es un precursor.
+El ID 220826 es un precursor.
+El ID 59715 es un precursor.
+El ID 7235533 es un precursor.
+El ID 11544421 es un precursor.
+El ID 43070 es un precursor.
+El ID 768889 es un precursor.
+El ID 13065142 es un precursor.
+El ID 13619 es un precursor.
+El ID 13621 es un precursor.
+El ID 71252 es un precursor.
+El ID 596259 es un precursor.
+El ID 10 es un precursor.
+El ID 11227040 es un precursor.
+El ID 673252 es un precursor.
+El ID 186074 es un precursor.
+El ID 22738563 es un precursor.
+El ID 24814 es un precursor.
+El ID 25099 es un precursor.
+El ID 2 es un precursor.
+El ID 11389341 es un precursor.
+El ID 25494343 es un precursor.
+El ID 11422 es un precursor.
+El ID 121792 es un precursor.
+El ID 59715 es un precursor.
+El ID 46601 es un precursor.
+El ID 70489 es un precursor.
+El ID 25101 es un precursor.
+El ID 23753 es un precursor.
+El ID 1317181 es un precursor.
+El ID 18512 es un precursor.
+El ID 6792458 es un precursor.
+El ID 10790516 es un precursor.
+El ID 4502507 es un precursor.
+El ID 1087207 es un precursor.
+El ID 101255 es un precursor.
+El ID 1923820 es un precursor.
+El ID 23341855 es un precursor.
+El ID 10965 es un precursor.
+El ID 10 es un precursor.
+El ID 21853621 es un precursor.
+El ID 3 es un precursor.
+El ID 1237398 es un precursor.
+El ID 2879 es un precursor.
+El ID 5153799 es un precursor.
+El ID 24815 es un precursor.
+El ID 5697 es un precursor.
+El ID 13496 es un precursor.
+El ID 11106458 es un precursor.
+El ID 23437156 es un precursor.
+El ID 16084702 es un precursor.
+El ID 13184992 es un precursor.
+El ID 25104 es un precursor.
+El ID 1215032 es un precursor.
+El ID 24818 es un precursor.
+El ID 233691 es un precursor.
+El ID 24814 es un precursor.
+El ID 24494 es un precursor.
+El ID 62291 es un precursor.
+El ID 11544421 es un precursor.
+El ID 95602 es un precursor.
+El ID 2879 es un precursor.
+El ID 20706320 es un precursor.
+El ID 31819 es un precursor.
+El ID 25103 es un precursor.
+El ID 659469 es un precursor.
+El ID 2879 es un precursor.
+El ID 99298 es un precursor.
+El ID 77281 es un precursor.
+El ID 280111 es un precursor.
+ID: 8269450
+ID: 8493681
+ID: 23900993
+ID: 8718952
+ID: 8724779
+ID: 8718952
+ID: 4902793
+ID: 6606305
+ID: 30230
+ID: 8269450
+ID: 10661081
+ID: 8493681
+ID: 84138
+ID: 6485421
+ID: 6339989
+ID: 8269450
+ID: 4902793
+ID: 6606305
+ID: 3165162
+ID: 13573576
+ID: 8
+ID: 2832909
+ID: 112081
+ID: 284996
+ID: 11437
+ID: 493311
+ID: 8
+ID: 2223324
+ID: 99298
+ID: 2223324
+ID: 3165162
+ID: 3218719
+ID: 6520659
+ID: 59268
+ID: 30
+ID: 47615
+ID: 14367051
+ID: 3165162
+ID: 8
+ID: 3218719
+ID: 8331312
+ID: 6485421
+ID: 2223324
+ID: 7007561
+ID: 1507805
+ID: 6339989
+ID: 8269450
+ID: 3218719
+ID: 8346300
+ID: 11534309
+ID: 7942674
+ID: 10785687
+ID: 11534309
+ID: 7952502
+ID: 8346300
+ID: 7942674
+ID: 31819
+ID: 7942674
+ID: 6520659
+ID: 6443349
+ID: 8331312
+ID: 7007561
+ID: 8
+ID: 10859323
+ID: 3218719
+ID: 3232083
+ID: 12708927
+ID: 6422668
+ID: 6500478
+ID: 8242755
+ID: 8572544
+ID: 18467731
+ID: 8331312
+ID: 3218719
+ID: 7007561
+ID: 14367051
+ID: 14367071
+ID: 15743078
+ID: 13573576
+ID: 12708927
+ID: 24338301
+ID: 19213148
+ID: 11069761
+ID: 19890200
+ID: 10859323
+ID: 14575371
+ID: 11757444
+ID: 6443349
+ID: 6081686
+ID: 6878616
+ID: 3379618
+ID: 485091
+ID: 11029797
+ID: 16164271
+ID: 19358975
+ID: 16164271
+ID: 11387515
+ID: 10450750
+ID: 1070527
+ID: 10450750
+ID: 13096848
+ID: 7061696
+ID: 1390331
+ID: 9220325
+ID: 156989
+ID: 8062063
+ID: 36024
+ID: 1366033
+ID: 156985
+ID: 7061696
+ID: 5720763
+ID: 156986
+ID: 4345498
+ID: 6871646
+ID: 9329354
+ID: 12973980
+ID: 12458287
+ID: 17285883
+ID: 17562900
+ID: 12119529
+ID: 17285883
+ID: 11544421
+ID: 17562900
+ID: 15752757
+ID: 265205
+ID: 1067401
+ID: 441618
+ID: 29531
+ID: 6801614
+ID: 5463398
+ID: 6994424
+ID: 7743175
+ID: 25852784
+ID: 18243700
+ID: 23475666
+ID: 20342617
+ID: 26200563
+ID: 10750896
+ID: 13624565
+ID: 22487952
+ID: 21487668
+ID: 1894269
+ID: 204045
+ID: 15197
+ID: 68428
+ID: 13569581
+ID: 6
+ID: 22299651
+ID: 1493253
+ID: 5936
+ID: 22990
+ID: 10205
+ID: 44059
+ID: 71642
+ID: 67375
+ID: 763429
+ID: 9674335
+ID: 2338283
+ID: 13600318
+ID: 4667024
+ID: 22299652
+ID: 6050298
+ID: 13617933
+ID: 4345498
+ID: 17131869
+ID: 16164271
+ID: 77727
+ID: 109648
+ID: 6585201
+ID: 18966819
+ID: 23129080
+ID: 121715
+ID: 19486421
+ID: 906560
+ID: 22669832
+ID: 24323918
+ID: 25361480
+ID: 18628601
+ID: 23253863
+ID: 25109564
+ID: 25106
+ID: 22425
+ID: 71823
+ID: 8724779
+ID: 7098304
+ID: 158516
+ID: 6448482
+ID: 569434
+ID: 6956554
+ID: 502099
+ID: 8539798
+ID: 569434
+ID: 7921923
+ID: 6560220
+ID: 6690996
+ID: 1717889
+ID: 7352220
+ID: 5071433
+ID: 6613576
+ID: 65633
+ID: 101701
+ID: 55792
+ID: 15222
+ID: 67514
+ID: 17927395
+ID: 20829994
+ID: 23475666
+ID: 30
+ID: 99298
+ID: 463063
+ID: 47615
+ID: 59268
+ID: 6443349
+ID: 86238
+ID: 6604209
+ID: 35233
+ID: 6122735
+ID: 11706669
+ID: 10074280
+ID: 594361
+ID: 13580951
+ID: 315882
+ID: 160943
+ID: 310385
+ID: 532069
+ID: 12119529
+ID: 24938
+ID: 188572
+ID: 2600408
+ID: 4808763
+ID: 929587
+ID: 42900
+ID: 8069828
+ID: 18110808
+ID: 18714697
+ID: 18893982
+ID: 10025305
+ID: 892295
+ID: 220826
+ID: 1547049
+ID: 1546936
+ID: 2905807
+ID: 2040424
+ID: 20912424
+ID: 478951
+ID: 18335634
+ID: 47697
+ID: 181015
+ID: 6307034
+ID: 3119760
+ID: 28220985
+ID: 2767793
+ID: 12499290
+ID: 11665750
+ID: 12962439
+ID: 9832370
+ID: 58155
+ID: 12962439
+ID: 4700482
+ID: 35233
+ID: 8538026
+ID: 6122735
+ID: 43915
+ID: 4700482
+ID: 26661
+ID: 95617
+ID: 70513
+ID: 289787
+ID: 304079
+ID: 72910
+ID: 128436
+ID: 536668
+ID: 5936
+ID: 25105
+ID: 59715
+ID: 899856
+ID: 6178648
+ID: 7235533
+ID: 12499290
+ID: 14744381
+ID: 8932593
+ID: 7202841
+ID: 11878058
+ID: 11544421
+ID: 7904429
+ID: 43070
+ID: 233692
+ID: 7746259
+ID: 15743078
+ID: 14367051
+ID: 11872688
+ID: 14367071
+ID: 13573576
+ID: 10859323
+ID: 12652457
+ID: 768889
+ID: 12527544
+ID: 6304285
+ID: 6527740
+ID: 13065142
+ID: 15746858
+ID: 13206828
+ID: 17167166
+ID: 8069828
+ID: 8709526
+ID: 13605723
+ID: 17622805
+ID: 16030817
+ID: 132314
+ID: 13619
+ID: 1610998
+ID: 2324092
+ID: 320700
+ID: 97862
+ID: 86524
+ID: 29780253
+ID: 20613470
+ID: 8069828
+ID: 56728
+ID: 181400
+ID: 987587
+ID: 1824804
+ID: 1434923
+ID: 500285
+ID: 1467718
+ID: 128693
+ID: 262442
+ID: 500285
+ID: 128693
+ID: 1434923
+ID: 262442
+ID: 3323157
+ID: 708921
+ID: 1467718
+ID: 1824804
+ID: 56471
+ID: 13621
+ID: 526672
+ID: 8709526
+ID: 13547289
+ID: 17167166
+ID: 71252
+ID: 22422
+ID: 27362503
+ID: 2223324
+ID: 1
+ID: 86238
+ID: 46908
+ID: 485090
+ID: 875441
+ID: 596259
+ID: 1106766
+ID: 434764
+ID: 399460
+ID: 1267732
+ID: 574361
+ID: 2881819
+ID: 1123897
+ID: 399197
+ID: 655348
+ID: 452392
+ID: 5986375
+ID: 17717
+ID: 8755785
+ID: 12369942
+ID: 13605723
+ID: 10
+ID: 2223324
+ID: 11872688
+ID: 3165162
+ID: 7307499
+ID: 231912
+ID: 334818
+ID: 11227040
+ID: 15746858
+ID: 9674335
+ID: 2299110
+ID: 12958487
+ID: 25111004
+ID: 23389993
+ID: 18628601
+ID: 25361480
+ID: 18308270
+ID: 24323918
+ID: 74169
+ID: 10790276
+ID: 432695
+ID: 74169
+ID: 26661
+ID: 3412815
+ID: 13644052
+ID: 13617933
+ID: 17622805
+ID: 13502970
+ID: 70487
+ID: 8320534
+ID: 11710373
+ID: 5292764
+ID: 112080
+ID: 11432
+ID: 13363270
+ID: 9814682
+ID: 9832370
+ID: 35233
+ID: 4700482
+ID: 11706669
+ID: 12274389
+ID: 6604209
+ID: 6122735
+ID: 18249394
+ID: 673252
+ID: 177001
+ID: 5883777
+ID: 1563087
+ID: 17247337
+ID: 70294
+ID: 17333174
+ID: 86525
+ID: 186074
+ID: 2767793
+ID: 8253920
+ID: 6585201
+ID: 6339989
+ID: 10661081
+ID: 6606305
+ID: 4902793
+ID: 8269450
+ID: 6485421
+ID: 30230
+ID: 8493681
+ID: 3165162
+ID: 12216302
+ID: 6337006
+ID: 17332218
+ID: 12652457
+ID: 11100431
+ID: 23524878
+ID: 12499290
+ID: 8447255
+ID: 22738563
+ID: 23129944
+ID: 17255265
+ID: 545425
+ID: 2939264
+ID: 4440869
+ID: 3827274
+ID: 4734436
+ID: 3318993
+ID: 6280282
+ID: 2939484
+ID: 6294481
+ID: 24814
+ID: 77283
+ID: 25099
+ID: 22422
+ID: 17880714
+ID: 21417857
+ID: 20419910
+ID: 21920584
+ID: 3165162
+ID: 2
+ID: 5739512
+ID: 8709526
+ID: 285500
+ID: 17158532
+ID: 8712343
+ID: 35332
+ID: 11389341
+ID: 17070761
+ID: 841628
+ID: 25494343
+ID: 13612968
+ID: 11422
+ID: 80351
+ID: 121792
+ID: 77283
+ID: 136251
+ID: 7243142
+ID: 4556058
+ID: 59715
+ID: 46292
+ID: 19358975
+ID: 61899
+ID: 46601
+ID: 70513
+ID: 47989
+ID: 408615
+ID: 257917
+ID: 83913
+ID: 434535
+ID: 13559128
+ID: 561909
+ID: 434535
+ID: 596260
+ID: 93494
+ID: 11100431
+ID: 1298171
+ID: 6604209
+ID: 70489
+ID: 109648
+ID: 46906
+ID: 1631156
+ID: 23692271
+ID: 33
+ID: 11100431
+ID: 372299
+ID: 11873368
+ID: 464260
+ID: 30065028
+ID: 27777350
+ID: 8138071
+ID: 1275105
+ID: 13154150
+ID: 20759323
+ID: 6408558
+ID: 20743809
+ID: 10912036
+ID: 13094398
+ID: 17621101
+ID: 15745063
+ID: 10837494
+ID: 23093367
+ID: 16164271
+ID: 25101
+ID: 22421
+ID: 927979
+ID: 13615
+ID: 868
+ID: 6867952
+ID: 879119
+ID: 106393
+ID: 92227
+ID: 12177850
+ID: 4700482
+ID: 12830990
+ID: 9832370
+ID: 12274389
+ID: 613099
+ID: 3370515
+ID: 13573316
+ID: 7822895
+ID: 10618633
+ID: 18248517
+ID: 17571384
+ID: 7932486
+ID: 426504
+ID: 13167796
+ID: 31055
+ID: 569564
+ID: 18667307
+ID: 13531561
+ID: 23437328
+ID: 17961
+ID: 49006
+ID: 23753
+ID: 2338283
+ID: 209967
+ID: 1317181
+ID: 15990233
+ID: 2223324
+ID: 9528186
+ID: 194870
+ID: 18512
+ID: 5739512
+ID: 13565676
+ID: 6792458
+ID: 14894629
+ID: 432113
+ID: 10790516
+ID: 15781026
+ID: 7046495
+ID: 10402992
+ID: 4502507
+ID: 8069828
+ID: 18705209
+ID: 13580951
+ID: 8069828
+ID: 1087207
+ID: 244813
+ID: 349254
+ID: 7351
+ID: 15242
+ID: 36
+ID: 15267
+ID: 16546
+ID: 15854616
+ID: 13605723
+ID: 10790276
+ID: 11742691
+ID: 12499290
+ID: 17950614
+ID: 1350249
+ID: 16074748
+ID: 91475
+ID: 1013383
+ID: 101255
+ID: 8885824
+ID: 1923820
+ID: 2139442
+ID: 481749
+ID: 574361
+ID: 2350129
+ID: 592737
+ID: 596260
+ID: 272776
+ID: 434764
+ID: 399460
+ID: 434764
+ID: 23341855
+ID: 22460296
+ID: 24816
+ID: 27071490
+ID: 228199
+ID: 2350129
+ID: 596304
+ID: 452392
+ID: 399460
+ID: 272776
+ID: 1102940
+ID: 1106766
+ID: 336837
+ID: 10965
+ID: 119825
+ID: 546018
+ID: 32075671
+ID: 24974996
+ID: 22524101
+ID: 7938275
+ID: 6443349
+ID: 6485421
+ID: 7822895
+ID: 10
+ID: 15743078
+ID: 11872688
+ID: 91203
+ID: 2099146
+ID: 1034185
+ID: 2638736
+ID: 11312763
+ID: 11498223
+ID: 2631233
+ID: 22421
+ID: 92143
+ID: 325489
+ID: 181400
+ID: 11566
+ID: 12878300
+ID: 90072
+ID: 228200
+ID: 13337716
+ID: 12527544
+ID: 21098320
+ID: 29236299
+ID: 8447255
+ID: 58033
+ID: 7592279
+ID: 8113344
+ID: 21853621
+ID: 28638288
+ID: 102030
+ID: 3
+ID: 12127750
+ID: 12677913
+ID: 7261549
+ID: 969275
+ID: 19138879
+ID: 17288766
+ID: 13035053
+ID: 20748818
+ID: 20517048
+ID: 15849178
+ID: 44186
+ID: 32127
+ID: 15195
+ID: 3412815
+ID: 28260587
+ID: 17333174
+ID: 22299763
+ID: 1237398
+ID: 1493253
+ID: 2879
+ID: 2453403
+ID: 13448656
+ID: 7025086
+ID: 6485421
+ID: 434535
+ID: 100322
+ID: 353602
+ID: 5153799
+ID: 7098304
+ID: 24815
+ID: 232578
+ID: 3579
+ID: 18966806
+ID: 17950614
+ID: 12677913
+ID: 7788
+ID: 8038219
+ID: 99110
+ID: 10661081
+ID: 5697
+ID: 822115
+ID: 7952502
+ID: 13496
+ID: 9832370
+ID: 7743175
+ID: 13605727
+ID: 14403
+ID: 24813
+ID: 233692
+ID: 11106458
+ID: 17383005
+ID: 358858
+ID: 7826504
+ID: 13573576
+ID: 6344097
+ID: 8539798
+ID: 12127750
+ID: 12127810
+ID: 13580951
+ID: 17063691
+ID: 24812
+ID: 50323
+ID: 54589
+ID: 5031805
+ID: 40490
+ID: 674342
+ID: 669293
+ID: 72105
+ID: 877752
+ID: 11436
+ID: 8346300
+ID: 11437
+ID: 25293695
+ID: 17409842
+ID: 19548127
+ID: 11227043
+ID: 1693617
+ID: 42389
+ID: 23437156
+ID: 17927395
+ID: 7278837
+ID: 15058509
+ID: 13547137
+ID: 13070346
+ID: 14367051
+ID: 20426917
+ID: 12119529
+ID: 13188676
+ID: 8559047
+ID: 77427
+ID: 9832370
+ID: 6867952
+ID: 17722973
+ID: 16074851
+ID: 15802794
+ID: 22299763
+ID: 24019187
+ID: 13591244
+ID: 8868074
+ID: 24693032
+ID: 9761778
+ID: 17683
+ID: 16084702
+ID: 18467731
+ID: 231912
+ID: 13502970
+ID: 45974
+ID: 1720440
+ID: 2363958
+ID: 99111
+ID: 216048
+ID: 25102
+ID: 381421
+ID: 5757794
+ID: 175501
+ID: 23762
+ID: 194004
+ID: 147915
+ID: 12527544
+ID: 6304285
+ID: 21098320
+ID: 13184992
+ID: 20941146
+ID: 16159713
+ID: 6443349
+ID: 7351574
+ID: 36
+ID: 11430
+ID: 25104
+ID: 22424
+ID: 5289
+ID: 1215032
+ID: 2767793
+ID: 25451555
+ID: 8163161
+ID: 2261584
+ID: 7326764
+ID: 6609612
+ID: 7759872
+ID: 17880708
+ID: 18943009
+ID: 20419910
+ID: 10785687
+ID: 434764
+ID: 7243142
+ID: 13644055
+ID: 20883154
+ID: 3581
+ID: 24818
+ID: 77283
+ID: 17158513
+ID: 10813469
+ID: 17167084
+ID: 13206900
+ID: 233691
+ID: 24814
+ID: 8315872
+ID: 11737700
+ID: 7380117
+ID: 24494
+ID: 233692
+ID: 9520360
+ID: 7243142
+ID: 13241659
+ID: 8253920
+ID: 11410104
+ID: 11695211
+ID: 11872688
+ID: 62291
+ID: 8447255
+ID: 256008
+ID: 6479550
+ID: 13096848
+ID: 10450750
+ID: 1070527
+ID: 7061696
+ID: 5720763
+ID: 8062063
+ID: 156986
+ID: 8718952
+ID: 15813668
+ID: 11544421
+ID: 15808767
+ID: 13617933
+ID: 6122735
+ID: 95602
+ID: 70513
+ID: 290369
+ID: 360124
+ID: 4634266
+ID: 2879
+ID: 6801614
+ID: 336245
+ID: 228198
+ID: 3586
+ID: 39664
+ID: 20706320
+ID: 23497854
+ID: 20639274
+ID: 21920584
+ID: 18628601
+ID: 18807831
+ID: 91474
+ID: 481749
+ID: 1070527
+ID: 18943009
+ID: 31819
+ID: 5
+ID: 17333171
+ID: 14905
+ID: 1087205
+ID: 7822895
+ID: 7352220
+ID: 1011359
+ID: 18419
+ID: 119
+ID: 7351
+ID: 36
+ID: 349254
+ID: 17695071
+ID: 644992
+ID: 311264
+ID: 23157777
+ID: 12652457
+ID: 35233
+ID: 25103
+ID: 22423
+ID: 204041
+ID: 870
+ID: 569434
+ID: 294978
+ID: 4902793
+ID: 228194
+ID: 15767586
+ID: 43915
+ID: 659469
+ID: 349254
+ID: 119
+ID: 36
+ID: 43915
+ID: 13490570
+ID: 9799572
+ID: 6465707
+ID: 17287009
+ID: 13591244
+ID: 8868074
+ID: 15815110
+ID: 11208649
+ID: 15241
+ID: 13618
+ID: 26426
+ID: 1284031
+ID: 653559
+ID: 23766634
+ID: 29385546
+ID: 28862528
+ID: 7304203
+ID: 18337259
+ID: 4700482
+ID: 3370515
+ID: 2264142
+ID: 23110227
+ID: 13489518
+ID: 862041
+ID: 6443349
+ID: 492490
+ID: 86238
+ID: 10859323
+ID: 7938275
+ID: 30
+ID: 59268
+ID: 47615
+ID: 12708927
+ID: 8192675
+ID: 8331312
+ID: 11703437
+ID: 6413977
+ID: 3368983
+ID: 7202841
+ID: 5061675
+ID: 4700482
+ID: 9832370
+ID: 28550
+ID: 3370515
+ID: 18006496
+ID: 17342701
+ID: 13206900
+ID: 2879
+ID: 4488657
+ID: 13569581
+ID: 99298
+ID: 7261549
+ID: 16101018
+ID: 18739426
+ID: 89959
+ID: 5417
+ID: 3475161
+ID: 9677870
+ID: 77281
+ID: 24816
+ID: 280111
+ID: 82335
+ID: 1067401
+ID: 194004
+ID: 835973
+ID: 165068
+ID: 441618
+ID: 17562900
+ID: 27220736
+Tamaño del árbol: 970
+------------------------------
+Ahora con un rating más alto: 4.7
+No se encontraron precursores
+ID: 8
+ID: 17927395
+ID: 59715
+ID: 10
+ID: 70487
+ID: 17332218
+ID: 24814
+ID: 121792
+ID: 70489
+ID: 24816
+ID: 2350129
+ID: 24815
+ID: 24812
+ID: 5031805
+ID: 95602
+ID: 862041
+ID: 11703437
+Tamaño del árbol: 17
+------------------------------
+-----------------------------
+ID: 8
+Título: Harry Potter Boxed Set, Books 1-5 (Harry Potter, #1-5)
+ISBN: 0439682584
+Año de Publicación: 2004
+Idioma: eng
+Descripción: Box Set containing Harry Potter and the Sorcerer's Stone, Harry Potter and the Chamber Of Secrets, Harry Potter and the Prisoner of Azkaban, Harry Potter and the Goblet Of Fire, and Harry Potter and the Order of the Phoenix!
+Rating Promedio: 4.77
+-----------------------------
+ID: 17927395
+Título: A Court of Mist and Fury (A Court of Thorns and Roses, #2)
+ISBN: 
+Año de Publicación: 2016
+Idioma: eng
+Descripción: Feyre survived Amarantha's clutches to return to the Spring Court—but at a steep cost. Though she now has the powers of the High Fae, her heart remains human, and it can't forget the terrible deeds she performed to save Tamlin's people.<br /><br />Nor has Feyre forgotten her bargain with Rhysand, High Lord of the feared Night Court. As Feyre navigates its dark web of politics, passion, and dazzling power, a greater evil looms—and she might be key to stopping it. But only if she can harness her harrowing gifts, heal her fractured soul, and decide how she wishes to shape her future—and the future of a world cleaved in two.<br /><br />With more than a million copies sold of her beloved Throne of Glass series, Sarah J. Maas's masterful storytelling brings this second book in her seductive and action-packed series to new heights.
+Rating Promedio: 4.72
+-----------------------------
+ID: 59715
+Título: The Authoritative Calvin and Hobbes: A Calvin and Hobbes Treasury
+ISBN: 0751507954
+Año de Publicación: 1991
+Idioma: eng
+Descripción: A collection of Calvin and Hobbes cartoons. The author won the 1986 Reuben Award as Outstanding Cartoonist of the Year and has also illustrated Something Under the Bed is Drooling, Calvin and Hobbes' Yukon Ho! and Weirdos From Another Planet.
+Rating Promedio: 4.73
+-----------------------------
+ID: 10
+Título: Harry Potter Collection (Harry Potter, #1-6)
+ISBN: 0439827604
+Año de Publicación: 2005
+Idioma: eng
+Descripción: Six years of magic, adventure, and mystery make this luxurious boxed set the perfect gift for Harry Potter fans of all ages. <br />Follow Harry from his first days at Hogwarts School for Witchcraft and Wizardry, through his many adventures with Hermione and Ron, to his confrontations with rival Draco Malfoy and the dreaded Professor Snape. From the thrilling search for the Sorcerer's Stone to the Triwizard Tournament to the return of He-Who-Must-Not-Be-Named, each adventure is more riveting and exhilarating than its predecessor, and now all six books are available together for the first time in an elegant hardcover boxed set.
+Rating Promedio: 4.73
+-----------------------------
+ID: 70487
+Título: Attack of the Deranged Mutant Killer Monster Snow Goons
+ISBN: 1417642165
+Año de Publicación: 1992
+Idioma: eng
+Descripción: Calvin and Hobbes are back. The energetic six-year-old and his sidekick tiger endure all the trials of youth and continue to endear themselves to millions of loyal readers in the latest collection of their shenanigans. This latest assembly of Calvin and Hobbes' adventures has never been collected in book form.
+Rating Promedio: 4.72
+-----------------------------
+ID: 17332218
+Título: Words of Radiance (The Stormlight Archive, #2)
+ISBN: 0765326361
+Año de Publicación: 2014
+Idioma: eng
+Descripción: <b>From #1 New York Times bestselling author Brandon Sanderson, Words of Radiance, Book Two of the Stormlight Archive, continues the immersive fantasy epic that The Way of Kings began.</b><br /><br />Expected by his enemies to die the miserable death of a military slave, Kaladin survived to be given command of the royal bodyguards, a controversial first for a low-status "darkeyes." Now he must protect the king and Dalinar from every common peril as well as the distinctly uncommon threat of the Assassin, all while secretly struggling to master remarkable new powers that are somehow linked to his honorspren, Syl.<br /><br />The Assassin, Szeth, is active again, murdering rulers all over the world of Roshar, using his baffling powers to thwart every bodyguard and elude all pursuers. Among his prime targets is Highprince Dalinar, widely considered the power behind the Alethi throne. His leading role in the war would seem reason enough, but the Assassin's master has much deeper motives.<br /><br />Brilliant but troubled Shallan strives along a parallel path. Despite being broken in ways she refuses to acknowledge, she bears a terrible burden: to somehow prevent the return of the legendary Voidbringers and the civilization-ending Desolation that will follow. The secrets she needs can be found at the Shattered Plains, but just arriving there proves more difficult than she could have imagined.<br /><br />Meanwhile, at the heart of the Shattered Plains, the Parshendi are making an epochal decision. Hard pressed by years of Alethi attacks, their numbers ever shrinking, they are convinced by their war leader, Eshonai, to risk everything on a desperate gamble with the very supernatural forces they once fled. The possible consequences for Parshendi and humans alike, indeed, for Roshar itself, are as dangerous as they are incalculable.
+Rating Promedio: 4.77
+-----------------------------
+ID: 24814
+Título: It's a Magical World: A Calvin and Hobbes Collection
+ISBN: 0836221362
+Año de Publicación: 1996
+Idioma: eng
+Descripción: When cartoonist Bill Watterson announced that his phenomenally popular cartoon strip would be discontinued, <i>Calvin and Hobbes</i> fans throughout the world went into mourning. Fans have learned to survive -- despite the absence of the boy and his tiger in the daily newspaper. <i>It's a Magical World</i> delivers all the satisfaction of visiting its characters once more. Calvin fans will be able to see their favorite mischief maker stir it up with his furry friend, long-suffering parents, classmate Susie Derkins, school teacher Miss Wormwood, and Rosalyn the baby-sitter. <i>It's a Magical World</i> includes full-color Sundays and has it all: Calvin-turned-firefly waking Hobbes with his flashlight glow; courageous Spaceman Spiff rocketing through alien galaxies as he battles Dad-turned-Bug-Being; and Calvin's always inspired snowman art. There's no better way for Watterson fans to savor again the special qualities of their favorite strip.
+Rating Promedio: 4.75
+-----------------------------
+ID: 121792
+Título: The Revenge of the Baby-Sat
+ISBN: 1417642122
+Año de Publicación: 1991
+Idioma: 
+Descripción: The praise and popularity of Calvin and Hobbes continue to escalate as the hottest comic strip around reaches its fifth birthday. With keen insight, Bill Watterson depicts life through the eyes of a child, and the limits of our imaginations are challenged as we accompany Calvin and Hobbes while they stir up trouble, travel through time, transmogrify themselves--and just have fun in everything they do.
+Rating Promedio: 4.71
+-----------------------------
+ID: 70489
+Título: There's Treasure Everywhere: A Calvin and Hobbes Collection
+ISBN: 0836213122
+Año de Publicación: 1996
+Idioma: eng
+Descripción: In the world that Calvin and his stuffed tiger Hobbes share, treasures can be found in the most unlikely places, from the outer regions where Spaceman Spiff travels to the rocks in one's own backyard. In the latest cartoon collection from the talented pen of Bill Watterson, this curious duo roams their world ever in search of the fortunes (and misfortunes!) to be experienced. Color &amp; black &amp; white cartoons throughout.
+Rating Promedio: 4.74
+-----------------------------
+ID: 24816
+Título: Homicidal Psycho Jungle Cat: A Calvin and Hobbes Collection
+ISBN: 0836217691
+Año de Publicación: 0
+Idioma: eng
+Descripción: <i>Homicidal Psycho Jungle Cat</i> chronicles the multifarious adventures of this wild child and his faithful, but skeptical, friend. If the best cartoons compel readers to identify themselves within the funny frames, then all who enjoy <i>Calvin and Hobbes</i> are creative, imaginative, and ... bad, bad, bad! Calvin, the irascible little boy with the stuffed tiger who comes to life are a pair bound for trouble. Boring school lessons become occasions for death-defying alien air battles, speeding snow sled descents elicit philosophical discussions on the meaning of life, and Hobbe's natural inclination to pounce on his little friend wreaks havoc on Calvin's sense of security. Calvin's the kid we all wish we"d been. Sassy, imaginative, far more verbal than his parents can manage, Calvin is the quintessential bad boy--and the boy we love to see. He terrorizes little Susie, offers "Candid Opinions" from a neighborhood stand, and questions his parents" authority. "What assurance do I have that your parenting isn't screwing me up?" he demands. <i>Calvin and Hobbes</i> manages to say what needs to be said about childhood and life: "Eww, mud," says Calvin. "Look at this gooshy, dirty, slimy, thick, wet mud... Bleecch... Talk about a kid magnet!"
+Rating Promedio: 4.71
+-----------------------------
+ID: 2350129
+Título: Preach My Gospel: A Guide To Missionary Service
+ISBN: 0402366174
+Año de Publicación: 2004
+Idioma: 
+Descripción: 
+Rating Promedio: 4.71
+-----------------------------
+ID: 24815
+Título: The Indispensable Calvin and Hobbes
+ISBN: 0751500283
+Año de Publicación: 1992
+Idioma: eng
+Descripción: They're back: Calvin, the six-year-old dirty tricksmeister and master of indignation and his warm, cuddly philosopher sidekick, Hobbes. A tiger whose idea of adventure is to lie on his back by the fire and have his stomach rubbed. In six short years this unlikely duo has captured the hearts, the minds, and, most of all, the funny bones of America. They are the most phenomenal success story in syndication - and publishing - history. In only six years, they appear in more than 2,100 newspapers worldwide, and Calvin and Hobbes wins as many readership polls as Calvin has excesses. All seven of Bill Watterson's collections have sold a million copies within a year of publication. This treasury collection contains a never-before-published full-color section, as well as the cartoons appearing in 'The Revenge of the Baby-Sat' and 'Scientific Progress Goes "Boink."' All Sunday cartoons are presented full-page and full-color.
+Rating Promedio: 4.73
+-----------------------------
+ID: 24812
+Título: The Complete Calvin and Hobbes
+ISBN: 0740748475
+Año de Publicación: 2005
+Idioma: eng
+Descripción: <i>Calvin and Hobbes</i> is unquestionably one of the most popular comic strips of all time. The imaginative world of a boy and his real-only-to-him tiger was first syndicated in 1985 and appeared in more than 2,400 newspapers when Bill Watterson retired on January 1, 1996. The entire body of <i>Calvin and Hobbes</i> cartoons published in a truly noteworthy tribute to this singular cartoon in <i>The Complete Calvin and Hobbes</i>. Composed of three hardcover, four-color volumes in a sturdy slipcase, this <i>New York Times</i> best-selling edition includes all <i>Calvin and Hobbes</i> cartoons that ever appeared in syndication. This is the treasure that all <i>Calvin and Hobbes</i> fans seek.
+Rating Promedio: 4.82
+-----------------------------
+ID: 5031805
+Título: ESV Study Bible
+ISBN: 1433502410
+Año de Publicación: 2008
+Idioma: eng
+Descripción: The <em>ESV Study Bible</em> was designed to help you understand the Bible in a deeper way. Created by a diverse team of 95 leading Bible scholars and teachers--from 9 countries, nearly 20 denominations, and 50 seminaries, colleges, and universities--the <em>ESV Study Bible</em> features a wide array of study tools, making it a valuable resource for serious readers, students, and teachers of God's Word.<br /><br />Features:<br /><br /><br />Size: 6.5- x 9.25- 9-point Lexicon type (single-column Bible text); 7-point Frutiger type (double-column study notes) 2,752 pages Black letter text Concordance Extensive articles 240 full-color maps and illustrations Smyth-sewn binding Lifetime guarantee Packaging: J-card (HC), clamshell box (TruTone and leather), permanent slipcase (cloth over board)
+Rating Promedio: 4.76
+-----------------------------
+ID: 95602
+Título: Mark of the Lion Trilogy
+ISBN: 0842339523
+Año de Publicación: 1998
+Idioma: en-US
+Descripción: 
+Rating Promedio: 4.76
+-----------------------------
+ID: 862041
+Título: Harry Potter Boxset (Harry Potter, #1-7)
+ISBN: 0545044251
+Año de Publicación: 0
+Idioma: eng
+Descripción: The exciting tales of Harry Potter, the young wizard-in-training, have taken the world by storm, and fans just can't get enough of the magical world of Hogwarts and beyond. If you buy one of the Harry Potter books, we guarantee you'll want the next... and the next... and the next -- so why not have them all, right at your fingertips? With the Harry Potter Boxed Set (Years 1-7), Barnes &amp; Noble.com offers simple one-stop shopping for your Harry Potter library! As easy as the wave of a magic wand, you can get all seven Harry Potter books delivered to your doorstep at once.<p><br /><br />The Harry Potter Boxed Set includes hardcover editions of <i>Harry Potter and the Sorcerer's Stone, Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban, Harry Potter and the Goblet of Fire, Harry Potter and the Order of the Phoenix, Harry Potter and the Half-Blood Prince,</i> and <i>Harry Potter and the Deathly Hallows.</i> The books come snugly packed in a decorative, trunk-like box with sturdy handles and a privacy lock -- and includes decorative stickers!</p><p><br /><br />So buy the set, and not even a pesky Locomotor Mortis spell cast by the evil Lord Voldem...(oooops, sorry -- He-Who-Must-Not-Be-Named) can get in the way of your enjoying all of the mystery, adventure, intrigue, and, of course, magic that Muggles around the world can't seem to get enough of. Hold on tight -- it's going to be a bumpy ride!</p>
+Rating Promedio: 4.74
+-----------------------------
+ID: 11703437
+Título: Fullmetal Alchemist Box Set
+ISBN: 1421541955
+Año de Publicación: 2011
+Idioma: No disponible
+Descripción: No disponible
+Rating Promedio: 4.73
+-----------------------------
