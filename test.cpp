@@ -9,7 +9,6 @@ int main()
     std::string rutaXml = "./testds";
 
     ParserDatos::cargarCarpeta(rutaXml, miArbol);
-
     // Test de ejemplo hecho solo con "1.xml"
     // Para ejecutar el test se utiliza
     // g++ -std=c++17 test.cpp tree.cpp parser_datos.cpp pugixml.cpp -o test

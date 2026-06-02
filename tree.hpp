@@ -1,6 +1,9 @@
 #pragma once
 
 #include <vector>
+#pragma once
+
+#include <vector>
 #include <iostream>
 
 struct DatosLibro
@@ -13,20 +16,21 @@ struct DatosLibro
     std::string descripcion;
     double rating_promedio;
 };
-
 /* class Tree: Arbol general que almacena libros de GoodReads y sus libros similares
-    Cada nodo representa un libro
-    Los hijos directos de la raiz son los libros principales del dataset 
-    Los hijos de cada libro principal son sus libros similares, es decir, los que GoodReads recomienda junto a él
-    El nodo raíz tiene id=- y no representa ningún libro
-*/
-class Tree {
-private:
-    struct Node {
-        DatosLibro data;
-        Node* parent;
-        std::vector<Node*> children;
 
+    Estructura:
+
+        El nodo raíz tiene id=-1 y no representa ningún libro.
+
+        Los hijos directos de la raíz son los 10.000 libros principales del dataset.
+
+        Los hijos de cada libro son sus libros similares, es decir, libros que
+
+        GoodReads recomienda junto a ese libro (etiqueta <similar_books> en el XML).
+
+    Cada nodo almacena: id, título, ISBN, año de publicación, idioma, descripción, rating promedio y número de páginas.
+
+*/
 class Tree
 {
 private:

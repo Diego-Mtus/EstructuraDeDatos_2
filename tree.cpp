@@ -185,8 +185,13 @@ std::vector<int> Tree::inOrder()
     return result;
 }
 /* listar: Listar los IDs de los libros siguiendo un recorrido preorder.
-    Recorre el árbol visitando primero el nodo padre y luego sus hijos de izquierda a derecha
+    Recorre el árbol visitando primero el nodo padre y luego sus hijos de izquierda a derecha, de forma recursiva
     No muestra el nodo raíz (id=-1)
+    
+    Ejemplo de salida:
+        ID: 142473
+        ID: 280111
+        ...
 */
 void Tree::listar()
 {
@@ -198,11 +203,11 @@ void Tree::listar()
     }
 }
 
-// borrar_ratings(r): Eliminar del árbol todos los libros con rating promedio menor o igual al parámetro r.
-
-//si un libro es elimindado, también se eliminaran todos sus hijos (libros similares)
-//se eliminan nodos con rating>=rating
-
+/* Elimina del árbol todos los libros con rating promedio <= r.
+    Recorre el árbol y elimina cada nodo cuyo rating_promedio sea menor o igual al parámetro dado.
+    Al eliminar un nodo, también se eliminan todos sus hijos (libros similares), liberando la memoria correctamente.
+    Ej: borrar_ratings(4.0) elimina todos los libros con rating <= 4.0.
+*/
 void Tree::borrar_ratings(double rating)
 {
     borrar_ratings_rec(rootNode, rating);
@@ -236,15 +241,19 @@ void Tree::borrar_ratings_rec(Node *node, double rating)
 // sus libros similares fueron publicados luego del año 2000, entonces el ID 001 debe ser reportado)
 
 // voy a modificar esta funcion porsiaca
-bool Tree::precursor_por_id(int id_libro)
 
-/* Evalua si un libro es precursor
-    Un libro es precursor si todos sus libros similares fueron publicados en años estrictamente posteriores a el
-    Se ignoran simirales con año de publicacion 0 (dato no disponible)
+
+/* Evalúa si un libro es precursor y lo reporta si corresponde.
+    Un libro es precursor si todos sus libros similares fueron publicados en años estrictamente posteriores al año de publicación del libro.
+    Ejemplo: 
+    si el libro ID=001 fue publicado en 2000 y sus similares son de 2005, 2010 y 2015, entonces ID=001 es precursor.
+    Casos especiales:
+        Si el libro no tiene similares, no es precursor.
+        Si el libro o algún similar no tiene año (año=0), se ignora.
     id_libro el ID del libro a evaluar
     true si el libro es precursor, false en caso contrario
 */
-bool Tree::precursores(int id_libro)
+bool Tree::precursor_por_id(int id_libro)
 {
     Node *node = search(rootNode, id_libro);
     if (!node)
