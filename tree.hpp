@@ -14,6 +14,19 @@ struct DatosLibro
     double rating_promedio;
 };
 
+/* class Tree: Arbol general que almacena libros de GoodReads y sus libros similares
+    Cada nodo representa un libro
+    Los hijos directos de la raiz son los libros principales del dataset 
+    Los hijos de cada libro principal son sus libros similares, es decir, los que GoodReads recomienda junto a él
+    El nodo raíz tiene id=- y no representa ningún libro
+*/
+class Tree {
+private:
+    struct Node {
+        DatosLibro data;
+        Node* parent;
+        std::vector<Node*> children;
+
 class Tree
 {
 private:

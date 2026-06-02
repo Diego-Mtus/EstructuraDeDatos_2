@@ -184,9 +184,10 @@ std::vector<int> Tree::inOrder()
     inorder(rootNode);
     return result;
 }
-
-// listar: Listar los IDs de los libros siguiendo un recorrido preorder.
-
+/* listar: Listar los IDs de los libros siguiendo un recorrido preorder.
+    Recorre el árbol visitando primero el nodo padre y luego sus hijos de izquierda a derecha
+    No muestra el nodo raíz (id=-1)
+*/
 void Tree::listar()
 {
     std::vector<int> ids = preOrder();
@@ -198,6 +199,9 @@ void Tree::listar()
 }
 
 // borrar_ratings(r): Eliminar del árbol todos los libros con rating promedio menor o igual al parámetro r.
+
+//si un libro es elimindado, también se eliminaran todos sus hijos (libros similares)
+//se eliminan nodos con rating>=rating
 
 void Tree::borrar_ratings(double rating)
 {
@@ -233,6 +237,14 @@ void Tree::borrar_ratings_rec(Node *node, double rating)
 
 // voy a modificar esta funcion porsiaca
 bool Tree::precursor_por_id(int id_libro)
+
+/* Evalua si un libro es precursor
+    Un libro es precursor si todos sus libros similares fueron publicados en años estrictamente posteriores a el
+    Se ignoran simirales con año de publicacion 0 (dato no disponible)
+    id_libro el ID del libro a evaluar
+    true si el libro es precursor, false en caso contrario
+*/
+bool Tree::precursores(int id_libro)
 {
     Node *node = search(rootNode, id_libro);
     if (!node)
