@@ -10,7 +10,7 @@ void ParserDatos::cargarCarpeta(const std::string& ruta_carpeta, Tree& arbol) {
 
     // Por cada elemento, si es xml se revisa.
     for (const auto& entry : std::filesystem::directory_iterator(ruta_carpeta)) {
-        std::cout << "Procesando archivo: " << entry.path() << std::endl;
+        // std::cout << "Procesando archivo: " << entry.path() << std::endl;
         if (entry.path().extension() == ".xml") {
             procesarArchivo(entry.path().string(), arbol);
         }
