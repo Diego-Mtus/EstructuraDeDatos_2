@@ -26,10 +26,12 @@ ID, titulo, ISBN,
 Año de publicacion,
 Idioma,
 Descripcion,
-Rating promedio,
-Numero de paginas.
+Rating promedio.
+
 
 ## Decisiones de implementación
 - Se ignoraron libros similares con año de publicacion 0 (cuando el dato no está disponible en el XML) al evaluar precursores, esto hará que los libros similares con esta condición no invaliden el estado de precursor.
 - Se ignoraros libros principales sin año de publicacion al evaluar precursores
 - Se usó la libreria PugiXML para parsear los archivos XML
+- Se añadieron ejemplos de outputs obtenidos en pruebas, estos son los archivos `ejemplo_output_main.txt` y `ejemplo_output_test.txt`.
+- No se considera el número de páginas porque hay varios libros donde ese dato no está disponible.
